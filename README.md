@@ -55,9 +55,9 @@ A web application to  :mag:  view a github's user profile in a more simple and b
     ```
 
 ## :man_in_tuxedo: Author
-[![Twitter](https://img.shields.io/badge/follow-%40khusharth19-1DA1F2?style=flat&logo=Twitter)](https://twitter.com/6saalmoscow) 
+[![Twitter](https://img.shields.io/badge/follow-%40shreyansh-shukla-1DA1F2?style=flat&logo=Twitter)](https://twitter.com/6saalmoscow) 
 
-[![LinkedIn](https://img.shields.io/badge/connect-%40khusharthpatani-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/shreyansh-shukla/)
+[![LinkedIn](https://img.shields.io/badge/connect-%40shreyansh-shukla-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/shreyansh-shukla/)
 
 
 

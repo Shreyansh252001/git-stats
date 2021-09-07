@@ -10,7 +10,7 @@ A web application to  :mag:  view a github's user profile in a more simple and b
 
 ## :film_projector: DEMO
 <p align="center">
-<img src="./src/assets/demo.gif" alt="musology">
+<!---img src="./src/assets/demo.gif" alt="musology"--->
 </p>
 
 
@@ -35,7 +35,7 @@ A web application to  :mag:  view a github's user profile in a more simple and b
 
 ## :zap: Installation
 
-1. Clone / Download [this](https://github.com/khusharth/gitpedia) repo.
+1. Clone / Download [this](https://github.com/Shreyansh252001/git-stats) repo.
 2. Inside the project open a terminal and run:
     ```
     npm install

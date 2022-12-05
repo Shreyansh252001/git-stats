@@ -5,6 +5,7 @@
     
      <a href="https://app.netlify.com/sites/gitstats-shreyansh252001/deploys">
          <img src="https://api.netlify.com/api/v1/badges/d1181844-d8ec-4674-a46b-1858de4bbde5/deploy-status" alt="Netlify Status">
+         ![Netlify Status]( https://api.netlify.com/api/v1/badges/d1181844-d8ec-4674-a46b-1858de4bbde5/deploy-status )
      </a>
 
 </p>

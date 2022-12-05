@@ -1,13 +1,10 @@
 <p align="center">
-    <img src="./src/assets/logo.png" alt="gitpedia" width="280px"/>
+    <img src="./src/assets/logo.png" alt="gitstats" width="280px">
     <br>
     <br>
-  
-   
-           <a href="https://app.netlify.com/sites/gitpedia/deploys"><img src="https://api.netlify.com/api/v1/badges/2922c9f3-6683-48f9-918a-667a24665513/deploy-status" alt="Netlify Status"></a>
- </p>
+     <a href="https://app.netlify.com/sites/gitpedia/deploys"><img src="https://api.netlify.com/api/v1/badges/2922c9f3-6683-48f9-918a-667a24665513/deploy-status" alt="Netlify Status"></a>
 
-
+</p>
 A web application to  :mag:  view a github's user profile in a more simple and beautiful way. 
 
 ## :film_projector: DEMO

@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { GoStar } from "react-icons/go";
+// import { GoStar } from "react-icons/go";
 
 const FooterContainer = styled.footer`
     display: flex;
@@ -20,19 +20,19 @@ const FooterContainer = styled.footer`
     }
 `;
 
-const ProjectLink = styled.a`
-    text-decoration: none;
+// const ProjectLink = styled.a`
+//     text-decoration: none;
 
-    &:link,
-    &:visited {
-        color: #0098f0;
-    }
+//     &:link,
+//     &:visited {
+//         color: #0098f0;
+//     }
 
-    &:hover,
-    &:active {
-        text-decoration: underline;
-    }
-`;
+//     &:hover,
+//     &:active {
+//         text-decoration: underline;
+//     }
+// `;
 
 const Footer = () => {
     return (

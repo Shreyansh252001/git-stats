@@ -2,8 +2,7 @@
     <img src="./src/assets/logo.png" alt="gitpedia" width="280px">
     <br>
     <br>
-     <a href="https://app.netlify.com/sites/gitpedia/deploys"><img src="https://api.netlify.com/api/v1/badges/2922c9f3-6683-48f9-918a-667a24665513/deploy-status" alt="Netlify Status"></a>
-
+    [![Netlify Status](https://api.netlify.com/api/v1/badges/d1181844-d8ec-4674-a46b-1858de4bbde5/deploy-status)](https://app.netlify.com/sites/gitstats-shreyansh252001/deploys)
 </p>
 
 A web application to  :mag:  view a github's user profile in a more simple and beautiful way. 
